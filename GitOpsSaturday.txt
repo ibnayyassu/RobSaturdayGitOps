@@ -1,0 +1,5 @@
+Name = Nyash
+Class = Class 6
+Desired Income = $1 Million
+Desire Country = Kenya
+Favorite features on a lady = Nyash and more nyash
